@@ -26,4 +26,3 @@ The goal is to create a deterministic, synchronized communication framework with
 - Deterministic scheduling.
 - Support for CAN FD frames.
 - Foundation for fault-tolerant extensions.
-
