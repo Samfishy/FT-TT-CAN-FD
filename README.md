@@ -14,7 +14,7 @@ The goal is to create a deterministic, synchronized communication framework with
 - Study **latency, jitter, and synchronization accuracy**.
 - Provide a base for **fault-tolerant TTCAN-FD experiments**.
 
----![WhatsApp Image 2026-02-10 at 15 39 56](https://github.com/user-attachments/assets/31e3fbc2-f9bb-42e7-9a1f-7233eef1bec2)
+![WhatsApp Image 2026-02-10 at 15 39 56](https://github.com/user-attachments/assets/742165b0-be32-449a-babf-8b48a75585d6)
 
 ## Key Features
 - User button to start TTCAN schedule.
