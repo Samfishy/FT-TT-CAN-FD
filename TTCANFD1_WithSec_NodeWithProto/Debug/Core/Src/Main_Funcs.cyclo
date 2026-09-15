@@ -1,0 +1,12 @@
+../Core/Src/Main_Funcs.c:196:6:MainInit	4
+../Core/Src/Main_Funcs.c:205:6:TTCANFD_MainInit	4
+../Core/Src/Main_Funcs.c:229:6:TTCAN_loop	2
+../Core/Src/Main_Funcs.c:240:6:TTCAN_tx	6
+../Core/Src/Main_Funcs.c:270:6:TTCAN_rx	28
+../Core/Src/Main_Funcs.c:521:6:HAL_FDCAN_TxEventFifoCallback	3
+../Core/Src/Main_Funcs.c:533:6:HAL_FDCAN_RxFifo0Callback	3
+../Core/Src/Main_Funcs.c:546:6:HAL_GPIO_EXTI_Callback	2
+../Core/Src/Main_Funcs.c:556:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/Main_Funcs.c:996:6:MainLoop	8
+../Core/Src/Main_Funcs.c:1036:6:logging_tx	7
+../Core/Src/Main_Funcs.c:567:6:HAL_TIM_OC_DelayElapsedCallback	58
