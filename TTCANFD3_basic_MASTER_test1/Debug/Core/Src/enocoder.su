@@ -1,0 +1,3 @@
+../Core/Src/enocoder.c:36:6:proto_tx	48	static
+../Core/Src/enocoder.c:139:6:HAL_UART_ErrorCallback	8	static
+../Core/Src/enocoder.c:151:6:HAL_UART_TxCpltCallback	8	static
